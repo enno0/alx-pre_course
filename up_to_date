@@ -1,0 +1,13 @@
+git clone <repo>
+touch 
+git add
+git commit -m
+git push
+mkdir
+git push
+git checkout -b <branch-name>
+git branch
+git status
+git config 
+git pull 
+
